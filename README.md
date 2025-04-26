@@ -1,3 +1,5 @@
+# Command In Termux        
+```
 pkg update && pkg upgrade -y      
 pkg install git -y       
 pkg install nodejs-lts -y    

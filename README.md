@@ -6,6 +6,6 @@ pkg install nodejs-lts -y
 pkg install yarn     
 git clone https://github.com/KefeeProject/SPAIR-.git
 cd /sdcard/
-cd spcwa-main        
+cd SPAIR        
 yarn install          
 npm start

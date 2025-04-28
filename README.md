@@ -5,5 +5,6 @@ pkg install git -y
 pkg install nodejs-lts -y    
 pkg install yarn     
 cd /sdcard/SPAIR      
-yarn install          
+yarn install
+npm install         
 npm start
